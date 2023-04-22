@@ -1,2 +1,2 @@
-# Tarea-numero-3
-Ejercicios propuesto para el ramo de computaciòn de ingenieria en estadística y ciencia de datos
+# IECD114-COMPUTACION-I
+Solucion de jercicios propuesto para el curso de computaciòn de ingenieria en estadística y ciencia de datos
